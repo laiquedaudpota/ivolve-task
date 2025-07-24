@@ -61,6 +61,6 @@ The provided `iVolve Task.postman_collection.json` includes the following API re
 ## Setup
 * Create database with name `ivolve_task`
 * [iVolve-Task](https://github.com/laiquedaudpota/ivolve-task) Clone the project
-* [app.db.ddl.sql](https://github.com/laiquedaudpota/ivolve-task) Read, and execute the commands
-* [app.db.dml.sql](https://github.com/laiquedaudpota/ivolve-task) Read, and execute the commands
-* [iVolve Task.postman_collection.json](https://github.com/laiquedaudpota/ivolve-task) Import this collection into Postman to test the APIs.
+* [app.db.ddl.sql](https://github.com/laiquedaudpota/ivolve-task/blob/main/src/main/resources/app.db.ddl.sql) Read, and execute the commands
+* [app.db.dml.sql](https://github.com/laiquedaudpota/ivolve-task/blob/main/src/main/resources/app.db.dml.sql) Read, and execute the commands
+* [iVolve_Task.postman_collection.json](https://github.com/laiquedaudpota/ivolve-task/blob/main/src/main/resources/iVolve_Task.postman_collection.json) Import this collection into Postman to test the APIs.
